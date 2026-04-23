@@ -1,6 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/Iwhite67/CS2-DiscordChatSync) ![Issues](https://img.shields.io/github/issues/Iwhite67/CS2-DiscordChatSync) ![Downloads](https://img.shields.io/github/downloads/Iwhite67/CS2-DiscordChatSync/total) ![Stars](https://img.shields.io/github/stars/Iwhite67/CS2-DiscordChatSync)
 
-# CS2 Discord Chat Sync (1.1.1)
+# CS2 Discord Chat Sync (1.1.2)
 ![image](https://du.hurenso.hn/r/17JDsG.png)
 
 # About
