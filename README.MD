@@ -1,6 +1,6 @@
-![Copyright ev0lve Digital](https://img.shields.io/badge/Copyright-ev0lve%20Digital-blue) ![GitHub License](https://img.shields.io/github/license/imi-tat0r/CS2-DiscordChatSync) ![Issues](https://img.shields.io/github/issues/imi-tat0r/CS2-DiscordChatSync) ![Downloads](https://img.shields.io/github/downloads/imi-tat0r/CS2-DiscordChatSync/total) ![Stars](https://img.shields.io/github/stars/imi-tat0r/CS2-DiscordChatSync)
+![GitHub License](https://img.shields.io/github/license/Iwhite67/CS2-DiscordChatSync) ![Issues](https://img.shields.io/github/issues/Iwhite67/CS2-DiscordChatSync) ![Downloads](https://img.shields.io/github/downloads/Iwhite67/CS2-DiscordChatSync/total) ![Stars](https://img.shields.io/github/stars/Iwhite67/CS2-DiscordChatSync)
 
-# CS2 Discord Chat Sync (1.1.1)
+# CS2 Discord Chat Sync (1.1.2)
 ![image](https://du.hurenso.hn/r/17JDsG.png)
 
 # About
@@ -138,7 +138,7 @@ The following placeholders can be used in the `DiscordEmbedFormat` and the `Disc
          "AvatarUrl": "", // url to the author's avatar (optional) - requires author
          "Title": "Message from {Player.Name}",
          "ThumbnailUrl": "", // url to the thumbnail (optional)
-         "Footer": "https://github.com/imi-tat0r/CS2-DiscordChatSync",
+         "Footer": "https://github.com/Iwhite67/CS2-DiscordChatSync",
          "FooterIconUrl": "", // url to the footer icon (optional)
          
          // hex color code #RRGGBB or "{TeamColor}" for the player's team color
