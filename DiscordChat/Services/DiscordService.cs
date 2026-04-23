@@ -51,8 +51,7 @@ public class DiscordService : BackgroundService
         // create the client
         var c = new DiscordSocketClient(new DiscordSocketConfig()
         {
-            AlwaysDownloadUsers = true,
-            GatewayIntents = GatewayIntents.MessageContent | GatewayIntents.Guilds | GatewayIntents.GuildMessages | GatewayIntents.GuildMembers,
+            GatewayIntents = GatewayIntents.MessageContent | GatewayIntents.Guilds | GatewayIntents.GuildMessages,
             UseInteractionSnowflakeDate = false
         });
 
