@@ -52,7 +52,7 @@ public class DiscordService : BackgroundService
         var c = new DiscordSocketClient(new DiscordSocketConfig()
         {
             AlwaysDownloadUsers = true,
-            GatewayIntents = GatewayIntents.MessageContent | GatewayIntents.Guilds | GatewayIntents.GuildMessages,
+            GatewayIntents = GatewayIntents.MessageContent | GatewayIntents.Guilds | GatewayIntents.GuildMessages | GatewayIntents.GuildMembers,
             UseInteractionSnowflakeDate = false
         });
 
