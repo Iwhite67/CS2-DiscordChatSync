@@ -28,7 +28,7 @@ public class ChatFormatOptions
         {"AvatarUrl", ""},
         {"Title", "{Server.Name}"},
         {"ThumbnailUrl", ""},
-        {"Footer", "https://github.com/imi-tat0r/CS2-DiscordChatSync"},
+        {"Footer", "https://github.com/Iwhite67/CS2-DiscordChatSync"},
         {"FooterIconUrl", ""},
         {"Color", "{TeamColor}"}
     };
